@@ -1,0 +1,15 @@
+header{
+  background-color: dodgerblue;
+}
+a.menu{
+  float:left;
+  padding:20px;
+  text-decoration:none;
+}
+ul{
+  list-style-type:none;
+}
+
+#navmenu{
+  padding:20px;
+}
